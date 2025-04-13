@@ -27,7 +27,7 @@
 
 ### 📂  Portfolio
 - 🛠️ 포트폴리오: [Notion 링크 바로가기](https://pattern-donkey-272.notion.site/Portfolio-19ff25783f0e80fbbc4cc5cebbcbe546?pvs=74)
-
+- ✍️ 테크 블로그: [Tech Blog 바로가기](https://seungbeom97.tistory.com/)
 ---
 
 
