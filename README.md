@@ -5,7 +5,7 @@
 
 ---
 
-### 📬 Contact
+### 📬 Contact me
 - 📧 이메일: ghfk100@naver.com
 - 💌 언제든지 연락 주세요! **성장**과 **도전**을 좋아하는 개발자입니다. :rocket: 😄
 
