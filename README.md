@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=600&lines=👋+Hello+World,+I'm+Seungbeom!;👋+Seungbeom의+GitHub에+오신+걸+환영합니다!" alt="welcome typing animation" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&center=true&vCenter=true&width=600&lines=%F0%9F%91%8B+Hello+World,+I%27m+Seungbeom!;%F0%9F%91%8B+Seungbeom%EC%9D%98+GitHub%EC%97%90+%EC%98%A4%EC%8B%A0+%EA%B1%B8+%ED%99%98%EC%98%81%ED%95%A9%EB%8B%88%EB%8B%A4!" alt="welcome typing animation" />
 </p>
 
 ---
